@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6599f364-6747-4bb2-8a34-c41a7da1724f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_marketplace-sync_us-east1-d_my-first-cluster-1" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1pZYMTrQAsQNlpaX3rpnK6M1f8H" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="td23@nyu.edu" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="marketplace-sync" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="marketplace-sync" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="603235220665" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210312_0000" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kubernetes-manifests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cloud Code: Kubernetes.Develop on Kubernetes">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Develop on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" value="gcr.io/marketplace-sync" />
+      <option name="kubernetesContext" value="gke_marketplace-sync_us-east1-d_my-first-cluster-1" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="redeployOnChanges" value="true" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <option name="statusCheck" value="true" />
+      <option name="verbosity" value="NONE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" value="gcr.io/marketplace-sync" />
+      <option name="kubernetesContext" value="gke_marketplace-sync_us-east1-d_my-first-cluster-1" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="redeployOnChanges" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <option name="statusCheck" value="true" />
+      <option name="verbosity" value="NONE" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Kubernetes.Develop on Kubernetes" />
+      <item itemvalue="Cloud Code: Kubernetes.Run on Kubernetes" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6599f364-6747-4bb2-8a34-c41a7da1724f" name="Default Changelist" comment="" />
+      <created>1615392035606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615392035606</updated>
+      <workItem from="1615392037561" duration="8000" />
+      <workItem from="1615392047789" duration="10450000" />
+      <workItem from="1615485264034" duration="2051000" />
+      <workItem from="1615578422087" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
