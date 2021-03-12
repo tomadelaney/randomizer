@@ -7,11 +7,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="gke_marketplace-sync_us-east1-d_my-first-cluster-1" />
     <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1pZYMTrQAsQNlpaX3rpnK6M1f8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -105,12 +109,24 @@
       <workItem from="1615392037561" duration="8000" />
       <workItem from="1615392047789" duration="10450000" />
       <workItem from="1615485264034" duration="2051000" />
-      <workItem from="1615578422087" duration="1529000" />
+      <workItem from="1615578422087" duration="1896000" />
     </task>
+    <task id="LOCAL-00001" summary="Successful building of tables and records on Google Cloud SQL maretplace-sync instance, database marketplace-sync-test1 -- employees &amp; locations.  Using  GCE-SQL-Proxy in sidecar container pattern.">
+      <created>1615580384775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615580384775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Successful building of tables and records on Google Cloud SQL maretplace-sync instance, database marketplace-sync-test1 -- employees &amp; locations.  Using  GCE-SQL-Proxy in sidecar container pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Successful building of tables and records on Google Cloud SQL maretplace-sync instance, database marketplace-sync-test1 -- employees &amp; locations.  Using  GCE-SQL-Proxy in sidecar container pattern." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
